@@ -1,6 +1,6 @@
 # Demo Videos
 
-<img src="/public/assets/videos/video1.gif" width="" />
+<img src="/public/assets/videos/video1.gif" width="100%" />
 
 <img src="/public/assets/videos/video2.gif" />
 
