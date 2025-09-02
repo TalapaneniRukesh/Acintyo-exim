@@ -1,4 +1,4 @@
-# DEMO
+# Demo Videos
 
 <img src="/public/assets/videos/video1.gif" />
 
