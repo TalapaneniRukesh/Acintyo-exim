@@ -1,0 +1,21 @@
+@import "./variables.scss";
+@import "./utilities.scss";
+@import "./commonstyles.scss";
+@import "./fonts.scss";
+@import "./header.scss";
+@import "./tabsection.scss";
+@import "./hometab.scss";
+@import "./countryselection.scss";
+@import "./buyerseller.scss";
+@import "./agentstab.scss";
+@import "./footer.scss";
+@import "./complaints.scss";
+@import "./profile.scss";
+@import "./deals.scss";
+@import "./login.scss";
+
+body {
+  font-family: "Poppins" !important;
+  margin: 0;
+  background: #edf1fd;
+}

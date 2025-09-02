@@ -1,0 +1,151 @@
+[
+  {
+    "Starter_price": "0",
+    "specs": [
+      {
+        "spec_text": "Products/HS Code Search10",
+        "bool": true
+      },
+      {
+        "spec_text": "Profile views50",
+        "bool": true
+      },
+      {
+        "spec_text": "Buy/Sell Pattern Analysis",
+        "bool": true
+      },
+      {
+        "spec_text": "Transactional Details",
+        "bool": true
+      },
+      {
+        "spec_text": "Product Basket Analysis",
+        "bool": true
+      },
+      {
+        "spec_text": "Company",
+        "bool": true
+      },
+      {
+        "spec_text": "Product",
+        "bool": true
+      },
+      {
+        "spec_text": "Contact Info",
+        "bool": true
+      },
+      {
+        "spec_text": "Trade Analysis",
+        "bool": false
+      },
+      {
+        "spec_text": "Downloads0",
+        "bool": false
+      },
+      {
+        "spec_text": "Port Analysis",
+        "bool": false
+      }
+    ]
+  },
+
+  {
+    "Starter_price": "0",
+    "specs": [
+      {
+        "spec_text": "Products/HS Code Search10",
+        "bool": true
+      },
+      {
+        "spec_text": "Profile views50",
+        "bool": true
+      },
+      {
+        "spec_text": "Buy/Sell Pattern Analysis",
+        "bool": true
+      },
+      {
+        "spec_text": "Transactional Details",
+        "bool": true
+      },
+      {
+        "spec_text": "Product Basket Analysis",
+        "bool": true
+      },
+      {
+        "spec_text": "Company",
+        "bool": true
+      },
+      {
+        "spec_text": "Product",
+        "bool": true
+      },
+      {
+        "spec_text": "Contact Info",
+        "bool": true
+      },
+      {
+        "spec_text": "Trade Analysis",
+        "bool": false
+      },
+      {
+        "spec_text": "Downloads0",
+        "bool": false
+      },
+      {
+        "spec_text": "Port Analysis",
+        "bool": false
+      }
+    ]
+  },
+
+  {
+    "Starter_price": "0",
+    "specs": [
+      {
+        "spec_text": "Products/HS Code Search10",
+        "bool": true
+      },
+      {
+        "spec_text": "Profile views50",
+        "bool": true
+      },
+      {
+        "spec_text": "Buy/Sell Pattern Analysis",
+        "bool": true
+      },
+      {
+        "spec_text": "Transactional Details",
+        "bool": true
+      },
+      {
+        "spec_text": "Product Basket Analysis",
+        "bool": true
+      },
+      {
+        "spec_text": "Company",
+        "bool": true
+      },
+      {
+        "spec_text": "Product",
+        "bool": true
+      },
+      {
+        "spec_text": "Contact Info",
+        "bool": true
+      },
+      {
+        "spec_text": "Trade Analysis",
+        "bool": false
+      },
+      {
+        "spec_text": "Downloads0",
+        "bool": false
+      },
+      {
+        "spec_text": "Port Analysis",
+        "bool": false
+      }
+    ]
+  }
+]

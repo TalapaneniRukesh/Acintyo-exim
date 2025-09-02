@@ -1,0 +1,62 @@
+[
+  {
+    "img": "/assets/images/products/red-chilli.png",
+    "name": "Dried Red Chilli",
+    "description": "Dry red chili is a condiment that adds pungency and color to the food."
+  },
+  {
+    "img": "/assets/images/products/cardamom.png",
+    "name": "Cardamom",
+    "description": "Cardamom is an herb that is often used as a spice in foods."
+  },
+  {
+    "img": "/assets/images/products/turmeric.png",
+    "name": "Turmeric Fingers",
+    "description": "The turmeric finger is the purest form of turmeric and is used in medicines."
+  },
+  {
+    "img": "/assets/images/products/rampatri.png",
+    "name": "Rampatri",
+    "description": "Rampatri is an aromatic spice similar to mace but much denser and aromatic."
+  },
+  {
+    "img": "/assets/images/products/coriander-seeds.png",
+    "name": "Coriander Seeds",
+    "description": "Rampatri is an aromatic spice similar to mace but much denser and aromatic."
+  },
+  {
+    "img": "/assets/images/products/corinder.png",
+    "name": "Coriander",
+    "description": "Coriander is a antioxidant-rich herb that has many culinary uses and health benefits."
+  },
+  {
+    "img": "/assets/images/products/curry-leaves.png",
+    "name": "Curry Leaves",
+    "description": "Curry leaves are a part of a small deciduous aromatic shrub."
+  },
+  {
+    "img": "/assets/images/products/cumin-seeds.png",
+    "name": "Cumin Seeds",
+    "description": "Cumin seed is used as a spice for its distinctive flavor and aroma."
+  },
+  {
+    "img": "/assets/images/products/hing.png",
+    "name": "Hing Asefoetida",
+    "description": "Asafoetida is an remedy for bloating and other stomach problems like flatulence."
+  },
+  {
+    "img": "/assets/images/products/tea.png",
+    "name": "Tea",
+    "description": "Tea Powder is a powdered form of tea leaves obtained from the Camellia Sinensis plant."
+  },
+  {
+    "img": "/assets/images/products/chilli-powder.png",
+    "name": "Chilli Powder",
+    "description": "Rampatri is an aromatic spice similar to mace but much denser and aromatic."
+  },
+  {
+    "img": "/assets/images/products/ginger.png",
+    "name": "Ginger",
+    "description": "The spice has a slightly biting taste and is used, usually dried."
+  }
+]

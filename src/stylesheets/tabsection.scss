@@ -1,0 +1,42 @@
+.ant-tabs-nav {
+  position: fixed !important;
+  top: 60px;
+  width: 100%;
+  z-index: 10;
+}
+
+.ant-tabs-content-holder {
+  position: relative;
+  top: 106px;
+}
+
+.ant-tabs-ink-bar {
+  background: $active-tab !important;
+  border-radius: 10px 10px 0px 0px;
+  height: 5px !important;
+}
+
+.tab-active-clr {
+  color: $active-tab !important;
+}
+
+.tab-active-bdr {
+  border-bottom: 3px solid;
+}
+
+.tab:hover {
+  color: $active-tab !important;
+}
+
+.tab-color-white {
+  color: $white;
+}
+
+.tab-color-black {
+  color: $btn-clr;
+}
+
+.tab {
+  font-family: "Poppins" !important;
+  font-size: $font-size-14;
+}

@@ -1,0 +1,52 @@
+.ant-input-group {
+  width: 350px;
+  input {
+    background: $white;
+    font-family: "Poppins";
+    font-size: $font-size-15;
+    border-radius: $radius-5 !important;
+    padding-right: 40px;
+    &:hover {
+      border-color: $dropdown-bg-color !important;
+    }
+    &:focus {
+      box-shadow: none !important;
+      border-color: $dropdown-bg-color !important;
+    }
+  }
+}
+
+.ant-input-group-addon {
+  display: none !important;
+}
+
+.vector {
+  right: 15px;
+  z-index: 1;
+  top: 10px;
+}
+
+.btn-container {
+  width: 135px;
+  height: 40px;
+  background: $btn-clr;
+  border-radius: $radius-10;
+  box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.39);
+}
+
+.login-text {
+  font-family: "Poppins" !important;
+  font-weight: $font-weight-500;
+  font-size: $font-size-15;
+  line-height: 38px;
+  color: $white;
+}
+
+.fixed-header {
+  width: 100%;
+  z-index: 10;
+}
+
+.header-box-shadow {
+  box-shadow: 0px 2px 3px rgba(0, 180, 216, 0.12);
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "img": "/assets/images/reward.png",
+        "img1": "/assets/images/reward-white-bg.png",
+        "title": "AWARDS",
+        "desc": ["Organic Farms Leader","2020 Leader of Farming","Revolter"]
+    },
+    {
+        "img": "/assets/images/members.png",
+        "img1": "/assets/images/members-white-bg.png",
+        "title": "MEMBERS",
+        "desc": "Almost all vegetables are best when harvested early in the morning."
+    },
+    {
+        "img": "/assets/images/turnover.png",
+        "img1": "/assets/images/turnover-white-bg.png",
+        "title": "TURN OVER",
+        "desc": "Almost all vegetables are best when harvested early in the morning."
+    }
+]

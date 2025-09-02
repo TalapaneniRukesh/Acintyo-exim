@@ -1,0 +1,145 @@
+.complaint-header {
+  background: $btn-clr;
+  font-size: $font-size-22;
+  color: $white;
+}
+
+.complaint-container {
+  background: $white;
+  box-shadow: 0px 0px 3.45607px rgba(0, 0, 0, 0.25);
+  border-radius: $radius-8;
+  width: 550px;
+  height: fit-content;
+}
+
+.width-250 {
+  width: 250px;
+}
+
+.complaint-section-divider {
+  border-bottom: 1.5px solid $sky-blue-bg;
+}
+
+.complaint-list-container {
+  background: $white;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+  border-radius: $radius-10;
+}
+
+.ant-progress-bg {
+  height: 2px !important;
+}
+
+.steps .step {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.justify-center .step {
+  display: block;
+  width: 20%;
+  text-align: center;
+}
+
+.steps .step .step-icon-wrap {
+  display: block;
+  position: relative;
+  width: 100%;
+  text-align: center;
+}
+
+// .steps .step .step-icon-wrap::before,
+.steps .step .step-icon-wrap::after {
+  display: block;
+  position: absolute;
+  top: 50%;
+  width: 50%;
+  height: 3px;
+  margin-top: -1px;
+  background-color: #e1e7ec;
+  content: "";
+  z-index: 1;
+}
+
+.steps .step .step-icon-wrap::before {
+  left: 0;
+}
+
+.steps .step .step-icon-wrap::after {
+  right: 0;
+}
+
+.steps .step .step-icon {
+  display: inline-block;
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #d5d5d5;
+  border-radius: 50%;
+  background-color: $white;
+  color: #c4c4c4;
+  z-index: 5;
+}
+
+.steps .step:first-child .step-icon-wrap::before {
+  display: none;
+}
+
+.steps .step:last-child .step-icon-wrap::after {
+  display: none;
+}
+
+.steps .step.completed .step-icon-wrap::before,
+.steps .step.completed .step-icon-wrap::after {
+  background-color: $btn-clr;
+}
+
+.steps .step.completed .step-icon {
+  border-color: $btn-clr;
+  background-color: $btn-clr;
+  color: $white;
+}
+
+// @media (max-width: 576px) {
+//   .flex-sm-nowrap .step .step-icon-wrap::before,
+//   .flex-sm-nowrap .step .step-icon-wrap::after {
+//     display: none;
+//   }
+// }
+
+// @media (max-width: 768px) {
+//   .flex-md-nowrap .step .step-icon-wrap::before,
+//   .flex-md-nowrap .step .step-icon-wrap::after {
+//     display: none;
+//   }
+// }
+
+// @media (max-width: 991px) {
+//   .flex-lg-nowrap .step .step-icon-wrap::before,
+//   .flex-lg-nowrap .step .step-icon-wrap::after {
+//     display: none;
+//   }
+// }
+
+// @media (max-width: 1200px) {
+//   .flex-xl-nowrap .step .step-icon-wrap::before,
+//   .flex-xl-nowrap .step .step-icon-wrap::after {
+//     display: none;
+//   }
+// }
+
+.bg-faded,
+.bg-secondary {
+  background-color: #f5f5f5 !important;
+}
+
+.request-modal > .ant-modal-content {
+  padding: 0 !important;
+  border-radius: 30px;
+}
+
+.complaint-content {
+  top: 30%;
+  left: 20%;
+}

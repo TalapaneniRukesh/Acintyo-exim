@@ -1,0 +1,92 @@
+[
+    {
+        "img": "/assets/images/profiles/profile1.png",
+        "name": "Ravi Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Hyderabad",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 4.5
+    },
+    {
+        "img": "/assets/images/profiles/profile2.png",
+        "name": "Moopaesh",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Mumbai",
+        "phone": 8897655463,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 4.5
+    },
+    {
+        "img": "/assets/images/profiles/profile3.png",
+        "name": "Fizal Khan",
+        "flag": "/assets/images/flags/india.png",
+        "city": "kolkata",
+        "phone": 9765990994,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 2
+    },
+    {
+        "img": "/assets/images/profiles/profile4.png",
+        "name": "shiva Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Hyderabad",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 3.5
+    },
+    {
+        "img": "/assets/images/profiles/profile5.png",
+        "name": "Ravi Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Hyderabad",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 5
+    },
+    {
+        "img": "/assets/images/profiles/profile6.png",
+        "name": "Sinu",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Hyderabad",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 5
+    },
+    {
+        "img": "/assets/images/profiles/profile7.png",
+        "name": "Ruchi Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Vishakapatnam",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 4.5
+    },
+    {
+        "img": "/assets/images/profiles/profile8.png",
+        "name": "Ravi Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Mumbai",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 4.5
+    },
+    {
+        "img": "/assets/images/profiles/profile2.png",
+        "name": "Ravi Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Vishakapatnam",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 4.5
+    },
+    {
+        "img": "/assets/images/profiles/profile3.png",
+        "name": "Ravi Kumar",
+        "flag": "/assets/images/flags/india.png",
+        "city": "Mumbai",
+        "phone": 6767899800,
+        "email": "rawmechinegt@gmail.com",
+        "rating": 4.5
+    }
+]

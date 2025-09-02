@@ -1,0 +1,218 @@
+.buysell-header {
+  font-size: 15px;
+  font-family: "Poppins";
+  background: $sky-blue-bg;
+  color: $white;
+  width: 100%;
+  z-index: 1;
+}
+
+.menu-bdr {
+  background: $btn-clr;
+  width: 250px;
+  color: $white;
+}
+
+.category-txt {
+  font-family: "Poppins";
+  font-weight: $font-weight-600;
+}
+
+.ctgry-list {
+  font-size: $font-size-13;
+  font-family: "Poppins";
+}
+
+.ant-input-wrapper {
+  width: 200px;
+}
+
+.active-menu {
+  color: $sky-blue-bg;
+}
+
+.active-bg {
+  background: $white;
+  color: black;
+}
+
+.buysell-bdr {
+  height: 9px;
+  background: $white;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.active-bdr {
+  background: $sky-blue-bg;
+  border-radius: 10px 0px 0px 10px;
+  height: 30px;
+  width: 6px;
+}
+
+.bdr-rht {
+  border-right: 0.5px solid #828282;
+}
+
+.bdr {
+  border-bottom: 0.5px solid rgba(0, 180, 216, 0.47);
+}
+
+.list-title-bdr {
+  border-bottom: 0.5px solid $btn-clr;
+}
+
+.ant-checkbox-wrapper:not(.ant-checkbox-wrapper-disabled):hover
+  .ant-checkbox-inner,
+.ant-checkbox:not(.ant-checkbox-disabled):hover .ant-checkbox-inner {
+  border-color: $sky-blue-bg !important;
+}
+
+.ant-checkbox-checked .ant-checkbox-inner {
+  background-color: $sky-blue-bg !important;
+  border: none !important;
+}
+
+.ant-checkbox-checked:after {
+  border: none !important;
+}
+
+.ant-checkbox-wrapper:not(.ant-checkbox-wrapper-disabled):hover
+  .ant-checkbox-checked:not(.ant-checkbox-disabled)
+  .ant-checkbox-inner {
+  background: $sky-blue-bg !important ;
+}
+
+.ant-card-meta-description {
+  font-family: "Poppins";
+  font-size: $font-size-11;
+  color: #828282 !important;
+  word-break: break-all;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.learn-more-text {
+  color: $text-highlight;
+  font-family: "Poppins";
+  font-size: $font-size-11;
+}
+
+.card-shadow {
+  box-shadow: 2.41815px 2.41815px 12.0908px rgba(0, 0, 0, 0.15);
+  border-radius: $radius-10;
+}
+
+.ant-card-cover {
+  overflow: hidden;
+  border-radius: $radius-10 $radius-10 0 0;
+}
+
+.ant-card img {
+  transition: transform 0.5s ease;
+}
+
+.ant-card:hover img {
+  transform: scale(1.29);
+}
+
+.ant-card-cover {
+  position: relative;
+}
+
+.product-hover-bg {
+  font-family: "Poppins";
+  position: absolute;
+  color: $white;
+  height: 100%;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.38), rgba(0, 0, 0, 0.38));
+  top: 0;
+  opacity: 0;
+  display: flex !important;
+  place-content: center;
+  font-weight: $font-weight-600;
+  font-size: $font-size-16;
+}
+
+.ant-card:hover .product-hover-bg {
+  opacity: 1;
+}
+
+.product-name {
+  position: absolute;
+  top: 40%;
+}
+
+.product-image {
+  width: 350px;
+  height: 400px;
+}
+
+.ant-carousel .slick-dots li {
+  background: $dots-bg;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+}
+
+.ant-carousel .slick-dots-bottom {
+  bottom: -40px;
+  z-index: 0;
+}
+
+.ant-carousel .slick-dots li button {
+  height: 0;
+}
+
+.ant-carousel .slick-dots li.slick-active {
+  border-radius: $radius-10;
+}
+
+.seller-btn-container {
+  border: 2px solid $btn-clr;
+  border-radius: $radius-10;
+  color: $btn-clr;
+  font-size: $font-size-14;
+  font-family: "Poppins";
+  width: 170px;
+}
+
+.deal-btn-container {
+  border-radius: $radius-10;
+  color: $white;
+  font-size: $font-size-14;
+  font-family: "Poppins";
+  width: 170px;
+}
+
+.map-selected {
+  fill: $btn-clr;
+}
+
+.map-unselected {
+  fill: $sky-blue-bg;
+}
+
+.map-selected:hover,
+.map-unselected:hover {
+  cursor: pointer;
+}
+
+.light-gray-clr {
+  color: #656565;
+}
+
+// ul {
+//   list-style: none;
+// }
+
+// ul li::before {
+//   content: "\2022";
+//   color: $sky-blue-bg;
+//   font-weight: bold;
+//   display: inline-block;
+//   width: 1em;
+//   margin-left: -1em;
+// }

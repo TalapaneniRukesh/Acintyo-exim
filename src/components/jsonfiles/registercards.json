@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/images/register/buyer.png",
+    "title": "Buyer"
+  },
+  {
+    "img": "/assets/images/register/supplier.png",
+    "title": "Supplier"
+  },
+  {
+    "img": "/assets/images/register/fpo.png",
+    "title": "FPO"
+  },
+  {
+    "img": "/assets/images/register/agent.png",
+    "title": "Agent"
+  },
+  {
+    "img": "/assets/images/register/logistics.png",
+    "title": "Logistics"
+  }
+]

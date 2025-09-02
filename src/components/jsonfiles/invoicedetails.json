@@ -1,0 +1,30 @@
+[
+  {
+    "date": "Jan 4, 2023",
+    "type": "Starter Plan (monthly)",
+    "total": 0,
+    "status": "Paid",
+    "invoice": "View Invoice"
+  },
+  {
+    "date": "Dec 4, 2022",
+    "type": "Starter Plan (monthly)",
+    "total": 0,
+    "status": "Paid",
+    "invoice": "View Invoice"
+  },
+  {
+    "date": "Nov 4, 2022",
+    "type": "Starter Plan (monthly)",
+    "total": 0,
+    "status": "Paid",
+    "invoice": "View Invoice"
+  },
+  {
+    "date": "Oct 4, 2022",
+    "type": "Starter Plan (monthly)",
+    "total": 0,
+    "status": "Paid",
+    "invoice": "View Invoice"
+  }
+]

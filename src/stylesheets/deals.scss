@@ -1,0 +1,175 @@
+.active-deal {
+  color: $sky-blue-bg;
+}
+
+.active-deal-bdr {
+  background: $sky-blue-bg;
+  border-radius: 10px 0px 0px 10px;
+  width: 4px;
+}
+
+.deals-container {
+  box-shadow: 0px 0px 8px rgba(41, 154, 180, 0.44);
+}
+
+.deal-header {
+  background: $menu-bg-clr;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.dealer-img {
+  height: 70px;
+  width: 195px;
+}
+
+.divider {
+  border: 1px solid $sky-blue-bg;
+}
+
+.dealer-addr {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  width: 300px;
+}
+
+.new-deal-addr {
+  word-break: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  width: 600px;
+}
+
+.amount-txt-clr {
+  color: #585858;
+}
+
+.amount-val-clr {
+  color: #13a4c6;
+}
+
+.review-btn-bdr {
+  border: 1.5px solid #1c4563;
+}
+
+.new-deal-btn {
+  box-shadow: 0px 0px 10px rgba(77, 203, 232, 0.51);
+}
+
+.deal-bdr-btm {
+  border-bottom: 0.75px solid $sky-blue-bg;
+}
+
+.new-deal-bdr-btm {
+  border-bottom: 2px solid $sky-blue-bg;
+}
+
+.new-deal-items-bdr-btm {
+  border-bottom: 1px solid $sky-blue-bg;
+}
+
+.green-clr {
+  color: #009e07;
+}
+
+.red-clr {
+  color: #ff0000;
+}
+
+.circle {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  background: #4eb664;
+}
+
+.new-deal-boxshadow {
+  box-shadow: 0px 0px 10px rgba(0, 180, 216, 0.3);
+}
+
+.ant-collapse-borderless > .ant-collapse-item {
+  border-bottom: 2px solid #c3edfc !important;
+  background: rgba(0, 180, 216, 0.04);
+}
+
+.ant-collapse-item-active {
+  background: $white !important;
+}
+
+.ant-collapse-item-active > .ant-collapse-header {
+  color: $sky-blue-bg !important;
+}
+
+.newdeal-input > .ant-input-wrapper {
+  width: 100%;
+}
+
+.ant-collapse {
+  border-radius: 0;
+}
+
+.ant-switch {
+  min-width: 35px;
+  height: 15px;
+}
+
+.ant-switch .ant-switch-inner {
+  background: $white !important;
+  border: 0.864846px solid #aaaaaa !important;
+}
+
+.ant-switch .ant-switch-handle {
+  width: 15px;
+  height: 14px;
+  top: 0;
+  margin-left: -1px;
+}
+
+.ant-switch.ant-switch-checked .ant-switch-handle {
+  inset-inline-start: calc(100% - 15px);
+}
+
+.ant-switch .ant-switch-handle::before {
+  background: #3f9251 !important;
+}
+
+.ant-switch-checked > .ant-switch-inner {
+  background: #3f9251 !important;
+}
+
+.ant-switch-checked > .ant-switch-handle::before {
+  background: $white !important;
+}
+
+.ant-collapse-item {
+  padding: 10px !important;
+}
+
+.ant-btn-default:not(:disabled):hover {
+  color: $white;
+}
+
+.ant-slider-horizontal .ant-slider-dot {
+  display: none;
+}
+
+.ant-slider-horizontal .ant-slider-track,
+.ant-slider:hover .ant-slider-track {
+  background: $menu-bg-clr;
+}
+
+.ant-slider .ant-slider-handle:hover::after,
+.ant-slider .ant-slider-handle:active::after,
+.ant-slider .ant-slider-handle:focus::after,
+.ant-slider .ant-slider-handle::after,
+.ant-slider:hover .ant-slider-handle::after {
+  box-shadow: 0 0 0 4px $menu-bg-clr;
+  background: $sky-blue-bg;
+}

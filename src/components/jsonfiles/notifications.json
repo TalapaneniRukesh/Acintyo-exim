@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/images/notifications/notification1.png",
+    "title": "New fertilizers available for cotton crops. Click here to order now!",
+    "time": "12:50 pm"
+  },
+  {
+    "img": "/assets/images/notifications/notification2.png",
+    "title": "Your order Id #12345678 has been shipped.",
+    "time": "11:50 am"
+  },
+  {
+    "img": "/assets/images/notifications/notification3.png",
+    "title": "There is high demand for tomatos now. Click here to order the seeds now.",
+    "time": "11:00 am"
+  },
+  {
+    "img": "/assets/images/notifications/notification4.png",
+    "title": "Now get 10% Off on all products from Ugaoo",
+    "time": "10:50 am"
+  }
+]

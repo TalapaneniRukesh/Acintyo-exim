@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/assets/images/flags/uae.png",
+    "name": "UAE"
+  },
+  {
+    "img": "/assets/images/flags/usa.png",
+    "name": "US"
+  },
+  {
+    "img": "/assets/images/flags/canada.png",
+    "name": "Canada"
+  },
+  {
+    "img": "/assets/images/flags/saudi.png",
+    "name": "Saudi Arabia"
+  },
+  {
+    "img": "/assets/images/flags/nepal.png",
+    "name": "Nepal"
+  },
+  {
+    "img": "/assets/images/flags/india.png",
+    "name": "India"
+  },
+  {
+    "img": "/assets/images/flags/uk.png",
+    "name": "UK"
+  },
+  {
+    "img": "/assets/images/flags/sa.png",
+    "name": "South africa"
+  },
+  {
+    "img": "/assets/images/flags/india.png",
+    "name": "India"
+  },
+  {
+    "img": "/assets/images/flags/usa.png",
+    "name": "US"
+  }
+]

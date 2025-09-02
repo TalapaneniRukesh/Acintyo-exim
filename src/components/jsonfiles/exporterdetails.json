@@ -1,0 +1,22 @@
+[
+  {
+    "img": "/assets/images/exporter-products/product1.png",
+    "name": "Vegetables",
+    "description": "Almost all vegetables are best when harvested early in the morning."
+  },
+  {
+    "img": "/assets/images/exporter-products/product2.png",
+    "name": "Fruits",
+    "description": "Preharvest drop of these fruits can be delayed by application of dilute sprays"
+  },
+  {
+    "img": "/assets/images/exporter-products/product3.png",
+    "name": "Spices",
+    "description": "A spice may be available in several forms: fresh, whole dried, or pre-ground dried."
+  },
+  {
+    "img": "/assets/images/exporter-products/product4.png",
+    "name": "Food Grains / Cereals",
+    "description": "Pulses are annual crops that yield between one and 12 grains or seeds."
+  }
+]

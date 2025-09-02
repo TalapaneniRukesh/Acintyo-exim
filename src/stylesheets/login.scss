@@ -1,0 +1,88 @@
+.login-bg {
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.login-bg-gradient {
+  background-image: url(/assets/images/login-bg.png);
+}
+
+.register-bg-gradient {
+  background-image: linear-gradient(
+      0deg,
+      rgba(24, 55, 78, 0.82),
+      rgba(24, 55, 78, 0.82)
+    ),
+    url(/assets/images/login-bg.png);
+}
+
+.login-card-shadow {
+  box-shadow: 0px 0px 16.6129px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+}
+
+.width-350 {
+  width: 350px;
+}
+
+.width-300 {
+  width: 300px;
+}
+
+.login-txt-clr {
+  color: $btn-clr;
+}
+
+.login-txt-clr-bg {
+  background: $btn-clr;
+}
+
+.login-continue-btn-shadow {
+  box-shadow: 0px 0px 9.08222px rgba(0, 180, 216, 0.3);
+}
+
+.link-highlighter {
+  color: #004cff;
+}
+
+.shadowed-steel-clr {
+  color: #4b4b4b;
+}
+
+.otp-container > input {
+  width: 40px !important;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.dhusar-grey-clr {
+  color: #aaaaaa;
+}
+
+.bauhaus-clr {
+  color: #404040;
+}
+
+.ant-statistic-content {
+  font-size: $font-size-18 !important;
+}
+
+.register-cards {
+  box-shadow: 0px 0px 8.98524px rgba(78, 182, 100, 0.2);
+  border: 0.898524px solid $border-thin-clr;
+  border-radius: 9px;
+  width: 180px;
+}
+
+.register-cards-filter {
+  filter: drop-shadow(0px 0px 7px #4a9cb9);
+}
+
+.card-title-radius {
+  border-radius: 0 0 9px 9px;
+}
+
+.maya-blue-clr {
+  color: #6cc5ff;
+}

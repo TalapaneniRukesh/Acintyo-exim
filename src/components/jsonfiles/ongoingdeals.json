@@ -1,0 +1,42 @@
+[
+  {
+    "img": "/assets/images/deals/rice.png",
+    "product": "Basmati Rice (Kasturi)",
+    "quantity": "2000 kg",
+    "amount": "6000 AED ( د.إ )",
+    "packing": "25 kg bags",
+    "date": "30 NOV 2022",
+    "status": "Samples Received",
+    "published": "Published On 28/04/2022 12:30pm"
+  },
+  {
+    "img": "/assets/images/deals/deal2.png",
+    "product": "Dried Red Chilli",
+    "quantity": "2000 kg",
+    "amount": "6000 AED ( د.إ )",
+    "packing": "25 kg bags",
+    "date": "30 NOV 2022",
+    "status": "Samples Received",
+    "published": "Published On 28/04/2022 12:30pm"
+  },
+  {
+    "img": "/assets/images/deals/deal3.png",
+    "product": "Coriander Seeds",
+    "quantity": "2000 kg",
+    "amount": "6000 AED ( د.إ )",
+    "packing": "25 kg bags",
+    "date": "30 NOV 2022",
+    "status": "Samples Received",
+    "published": "Published On 28/04/2022 12:30pm"
+  },
+  {
+    "img": "/assets/images/deals/deal4.png",
+    "product": "Turmeric sticks",
+    "quantity": "2000 kg",
+    "amount": "6000 AED ( د.إ )",
+    "packing": "25 kg bags",
+    "date": "30 NOV 2022",
+    "status": "Samples Received",
+    "published": "Published On 28/04/2022 12:30pm"
+  }
+]

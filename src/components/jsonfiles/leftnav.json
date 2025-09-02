@@ -1,0 +1,26 @@
+[
+    {
+        "list":"Food Grains/Cereals",
+        "subList": ["Barley", "Rice", "Jawar"]
+    },
+    {
+        "list":"Oil Seeds",
+        "subList": ["Castor", "Mustard", "Neem"]
+    },
+    {
+        "list":"Fruits",
+        "subList": ["Apple", "Banana", "Mango"]
+    },
+    {
+        "list":"Vegatables",
+        "subList": ["Bhindi", "Carrots", "Garlic"]
+    },
+    {
+        "list":"Spices",
+        "subList": ["Ajwan", "Cumin", "Turmeric"]
+    },
+    {
+        "list":"Misc",
+        "subList": ["Coconut", "Jaggery", "Saffron"]
+    }
+]

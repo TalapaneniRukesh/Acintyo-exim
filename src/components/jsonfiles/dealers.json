@@ -1,0 +1,20 @@
+[
+  {
+    "img": "/assets/images/deals/dealer1.png",
+    "name": "JAY KESHAV EXPORTS PRIVATE LIMITED",
+    "address": "NO.15, KIADB INDUSTRIAL AREA 2ND PHASE, KUMBALAGODU BANGALORE PIN-560074",
+    "amount": "17875.00"
+  },
+  {
+    "img": "/assets/images/deals/dealer2.png",
+    "name": "SURYA JOTHI SPICES",
+    "address": "73, THALAIAPPAN STREET VIRUDHUNAGAR,TAMILNADU",
+    "amount": "16875.00"
+  },
+  {
+    "img": "/assets/images/deals/dealer3.png",
+    "name": "MEGH OVERSEAS PRIVATE LIMITED",
+    "address": "NO.15, KIADB INDUSTRIAL AREA 2ND PHASE, KUMBALAGODU BANGALORE PIN-560074",
+    "amount": "18975.00"
+  }
+]
