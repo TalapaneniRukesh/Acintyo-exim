@@ -1,21 +1,21 @@
 # DEMO
 
-<video src="/public/assets/videos/video1.mp4"></video>
+<img src="/public/assets/videos/video1.gif" />
 
-<video src="/public/assets/videos/video2.mp4"></video>
+<img src="/public/assets/videos/video2.gif" />
 
-<video src="/public/assets/videos/video3.mp4"></video>
+<img src="/public/assets/videos/video3.gif" />
 
-<video src="/public/assets/videos/video4.mp4"></video>
+<img src="/public/assets/videos/video4.gif" />
 
-<video src="/public/assets/videos/video5.mp4"></video>
+<img src="/public/assets/videos/video5.gif" />
 
-<video src="/public/assets/videos/video6.mp4"></video>
+<img src="/public/assets/videos/video6.gif" />
 
-<video src="/public/assets/videos/video7.mp4"></video>
+<img src="/public/assets/videos/video7.gif" />
 
-<video src="/public/assets/videos/video8.mp4"></video>
+<img src="/public/assets/videos/video8.gif" />
 
-<video src="/public/assets/videos/video9.mp4"></video>
+<img src="/public/assets/videos/video9.gif" />
 
-<video src="/public/assets/videos/video10.mp4"></video>
+<img src="/public/assets/videos/video10.gif" />
